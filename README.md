@@ -81,6 +81,7 @@ MONGODB_URL=mongodb+srv://<username>:<db_password>@cluster0.mongodb.net/worksy
 JWT_SECRET=<your_generated_secret>
 PORT=5000
 ```
+You should replace <username> and <db_password> with your own username and database password respectively.
 
 ## Testing
 1. To run backend tests:
