@@ -42,7 +42,7 @@ Worksy is a modern job exploration and recruitment platform built with the MERN 
 - **Node.js Version**: ^18.0.0  
 - **Npm Version**: ^9.0.0  
 
-## Getting Started
+## Getting Started and Running the Application
 To get a local copy up and running, follow these steps:
 
 ### Backend Setup
