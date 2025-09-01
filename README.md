@@ -50,6 +50,9 @@ To get a local copy up and running, follow these steps:
    ```bash
    npm install
    ```
+   ```bash
+   npm install mongodb
+   ```
 2. Create a new MongoDB Project and Cluster.
 3. Add your IP address for access (or select **Allow Access from Anywhere**).
 4. Choose the **Drivers** connection method and copy the connection string.
