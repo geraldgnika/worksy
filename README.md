@@ -7,7 +7,7 @@ Worksy is a modern job exploration and recruitment platform built with the MERN 
   - [Table of Contents](#table-of-contents)
   - [Key Features](#key-features)
   - [Technical Requirements](#technical-requirements)
-  - [Getting Started & Running the Application](#getting-started-&-running-the-application)
+  - [Getting Started and Running the Application](#getting-started-and-running-the-application)
   - [Environment Variables](#environment-variables)
   - [Testing](#testing)
   - [Contributing](#contributing)
